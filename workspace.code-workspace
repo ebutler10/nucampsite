@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../javascript-basic-projects"
+		},
+		{
+			"path": "../../../practiceProjects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NucampFolder"
+	}
+}
